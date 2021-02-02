@@ -26,6 +26,4 @@ Open intergrated terminal/bash and run node idex.js
 
 Below you will find a link to my walkthrough recording of the Team Profile Generator
 
-https://drive.google.com/file/d/1z4E4qHu0eBKSrQa9unsiUoPs780B3xOF/view
-
-
+https://drive.google.com/file/d/1T1JHcYKq9HDTyNoJVwCRVq-38JUWdRZ5/view
