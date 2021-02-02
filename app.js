@@ -124,7 +124,7 @@ function createIntern() {
         },
         {
             type: "input",
-            message: "What is school is the intern enrolled to?",
+            message: "What school is the intern enrolled to?",
             name: "school",
         },
     ]).then((answer) => {
